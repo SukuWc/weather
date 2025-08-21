@@ -1,0 +1,26 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SukuWc/weather.git"
+  },
+  "author": "SukuWc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SukuWc/weather/issues"
+  },
+  "homepage": "https://github.com/SukuWc/weather#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "vite": "^2.7.6"
+  }
+}
